@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sajjad Ali 👋</h1>
+<h3 align="center">I am a Full-Stack Python Developer 💻</h3>
 
-<!--
-**sajjadali-fullstack/sajjadali-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Glad to see you here! I am passionate about coding, creating projects, and learning deep frontend & backend technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏷️ Badges
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 🔹 About Me
+- 🎓 I’m **Sajjad Ali**, exploring the world of full-stack development.  
+- 🔭 I’m currently working on **personal projects to sharpen my skills**.  
+- 🌱 I’m currently learning **deep frontend development and modern web technologies**.  
+- 💬 Ask me about **Python, Django, JavaScript, React, HTML, CSS**.  
+- ⚡ Fun fact: **I love building apps that make everyday tasks easier**.  
+
+---
+
+## 🚀 Projects
+Here are some projects I built:
+
+- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) – A complete billing system.  
+- [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) – A console-based bank management app.  
+- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) – Social app with friend requests feature.  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  (No social media currently)
+</p>
+
+---
+
+⭐ **If you like my work, don’t forget to follow & star repositories!**
