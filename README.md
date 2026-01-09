@@ -69,9 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadali-fullstack&theme=react-dark&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
-</p>
 ---
 
 ## 🌐 Connect With Me
