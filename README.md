@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Glad to see you here! I am passionate about coding, creating projects, and learning deep frontend & backend technologies.
+  Glad to see you here! I’m passionate about coding, building projects, and learning modern web technologies.
 </p>
 
 ---
@@ -31,11 +31,11 @@
 
 ## 🔹 About Me
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
-- 🎓 I’m **Sajjad Ali**, exploring the world of full-stack development.  
+- 🎓 I’m **Sajjad Ali**, exploring full-stack development.  
 - 🔭 Currently working on **personal projects to sharpen my skills**.  
-- 🌱 Learning **deep frontend development and modern web technologies**.  
+- 🌱 Learning **deep frontend & backend technologies**.  
 - 💬 Ask me about **Python, Django, Flask, JS, React, HTML, CSS, Bootstrap**.  
-- ⚡ Fun fact: **I love building apps that make everyday tasks easier**.  
+- ⚡ Fun fact: **Exploring the world of coding, one project at a time 🚀**  
 </div>
 
 ---
