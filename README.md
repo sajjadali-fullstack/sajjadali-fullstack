@@ -11,14 +11,16 @@
 
 ---
 
-## 🏷️ Skills & Badges
+## 🏷️ Skills
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
@@ -28,7 +30,7 @@
 - 🎓 I’m **Sajjad Ali**, exploring the world of full-stack development.  
 - 🔭 Currently working on **personal projects to sharpen my skills**.  
 - 🌱 Learning **deep frontend development and modern web technologies**.  
-- 💬 Ask me about **Python, Django, JS, React, HTML, CSS**.  
+- 💬 Ask me about **Python, Django, Flask, JS, React, HTML, CSS, Bootstrap**.  
 - ⚡ Fun fact: **I love building apps that make everyday tasks easier**.  
 </div>
 
@@ -36,9 +38,9 @@
 
 ## 🚀 Projects
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
-- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) – Complete billing system  
-- [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) – Console bank app  
-- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) – Social app with friend requests
+- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) 🐍💻 – Python/Django  
+- [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) 🐍 – Python  
+- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) 🐍⚛️ – Python/React/Bootstrap
 </div>
 
 ---
