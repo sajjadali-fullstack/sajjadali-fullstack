@@ -6,6 +6,10 @@
 <h3 align="center">I am a Full-Stack Python Developer 💻</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
   Glad to see you here! I am passionate about coding, creating projects, and learning deep frontend & backend technologies.
 </p>
 
@@ -41,7 +45,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 This Week I Spent My Time On
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadali-fullstack&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
 </p>
