@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/63195832?s=400&u=2d2c5a7b48f2b1d182b4f8d9c5859e1e92d30f71&v=4" width="200" alt="Sajjad Ali Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/63195832?s=400&u=2d2c5a7b48f2b1d182b4f8d9c5859e1e92d30f71&v=4" width="180" alt="Sajjad Ali Avatar"/>
 </p>
 
 <h1 align="center">Hi there, I'm Sajjad Ali 👋</h1>
-<h3 align="center">I am a Full-Stack Python Developer 💻</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
-</p>
+<h3 align="center">Full-Stack Python Developer 💻</h3>
 
 <p align="center">
   Glad to see you here! I am passionate about coding, creating projects, and learning deep frontend & backend technologies.
@@ -15,7 +11,7 @@
 
 ---
 
-## 🏷️ Badges
+## 🏷️ Skills & Badges
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -28,26 +24,28 @@
 ---
 
 ## 🔹 About Me
+<div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
 - 🎓 I’m **Sajjad Ali**, exploring the world of full-stack development.  
-- 🔭 I’m currently working on **personal projects to sharpen my skills**.  
-- 🌱 I’m currently learning **deep frontend development and modern web technologies**.  
-- 💬 Ask me about **Python, Django, JavaScript, React, HTML, CSS**.  
+- 🔭 Currently working on **personal projects to sharpen my skills**.  
+- 🌱 Learning **deep frontend development and modern web technologies**.  
+- 💬 Ask me about **Python, Django, JS, React, HTML, CSS**.  
 - ⚡ Fun fact: **I love building apps that make everyday tasks easier**.  
+</div>
 
 ---
 
 ## 🚀 Projects
-<p align="center">
-  <a href="https://github.com/sajjadali-fullstack/Billing-software">Billing Software</a> • 
-  <a href="https://github.com/sajjadali-fullstack/Bank-management">Bank Management System</a> • 
-  <a href="https://github.com/sajjadali-fullstack/facebook-style-friend-request-app">Facebook-Style Friend Request App</a>
-</p>
+<div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
+- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) – Complete billing system  
+- [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) – Console bank app  
+- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) – Social app with friend requests
+</div>
 
 ---
 
 ## 📊 This Week I Spent My Time On
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadali-fullstack&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadali-fullstack&theme=dracula&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
 </p>
 
 ---
