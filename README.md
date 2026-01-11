@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="180" alt="Sajjad Ali A"/>
+  <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
 </p>
 
 <h1 align="center">Hi there, I'm Sajjad Ali 👋</h1>
