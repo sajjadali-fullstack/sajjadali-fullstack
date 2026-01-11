@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/63195832?s=400&u=2d2c5a7b48f2b1d182b4f8d9c5859e1e92d30f71&v=4" width="180" alt="Sajjad Ali Avatar](https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif)"/>
+  <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="180" alt="Sajjad Ali A"/>
 </p>
 
 <h1 align="center">Hi there, I'm Sajjad Ali 👋</h1>
