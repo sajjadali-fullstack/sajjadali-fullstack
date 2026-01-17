@@ -75,6 +75,7 @@
 <p align="center">
   (No social media currently)
 </p>
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
 ---
 
