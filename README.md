@@ -42,9 +42,9 @@
 
 ## 🚀 Projects
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
-- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) 🐍💻 – Python/Django  <br>
+- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) 🐍💻 – Python & Tkinter  <br>
 - [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) 🐍 – Python  <br>
-- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) 🐍⚛️ – Python/React/Bootstrap
+- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) 🐍⚛️ – HTML, CSS, JS
 </div>
 
 ---
