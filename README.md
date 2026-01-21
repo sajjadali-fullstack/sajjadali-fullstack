@@ -74,6 +74,10 @@
 ## 🌐 Connect With Me
 <p align="center">
   (No social media currently)
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
+  <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40"/>
+</a>
+
 </p>
 
 ---
