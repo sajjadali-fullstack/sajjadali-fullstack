@@ -33,10 +33,10 @@
 ## 🔹 About Me
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
 - 🎓 I’m <b>Sajjad Ali</b>, exploring full-stack development.<br>
-- 🔭 Currently working on **personal projects to sharpen my skills**.  <br>
-- 🌱 Learning **deep frontend & backend technologies**.  <br>
-- 💬 Ask me about **Python, Django, Flask, JS, React, HTML, CSS, Bootstrap** .  <br>
-- ⚡ Fun fact: **Exploring the world of coding, one project at a time 🚀** 
+- 🔭 Currently working on *<b>personal projects to sharpen my skills<b>.  <br>
+- 🌱 Learning <b>deep frontend & backend technologies<b>.  <br>
+- 💬 Ask me about <b>Python, Django, Flask, JS, React, HTML, CSS, Bootstrap<b> .  <br>
+- ⚡ Fun fact: <b>Exploring the world of coding, one project at a time 🚀</b>
 </div>
 
 ---
