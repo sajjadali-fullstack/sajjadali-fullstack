@@ -16,6 +16,48 @@
 
 ---
 
+# Employee Dashboard - Clean Coad Company
+
+> **Recent Project:** This is one of my latest projects, developed to showcase my skills in Django and Bootstrap 5.  
+
+A simple **Employee Dashboard** built using **Django** and **Bootstrap 5**, showcasing a list of employees with their contact info, designation, and seniority status. This project focuses on **clean UI, responsiveness, and user-friendly experience**. It demonstrates my ability to work with **backend data, templates, and modern frontend styling**.
+
+## Extended Description
+The Employee Dashboard allows users to:  
+- View all employees in a **clean, responsive table**  
+- Click on employee names to see **detailed profiles**  
+- See **seniority badges** for quick identification (Senior / Junior)  
+- Contact employees via **email or phone directly from the dashboard**  
+- Sort and navigate the table easily (Bootstrap features integrated)  
+
+This project highlights my **Django backend skills**, **Bootstrap 5 design capabilities**, and attention to detail in creating a **professional, SEO-friendly web application**.
+
+## Features
+- Responsive table of employees  
+- Senior/Junior badge system  
+- Clickable employee profiles  
+- Email & phone links for easy contact  
+- SEO-friendly meta tags  
+
+## Technologies Used
+- Django (Python)  
+- Bootstrap 5  
+- HTML5, CSS3  
+- Django Template Language (DTL)  
+
+## Preview
+![Dashboard Screenshot](https://raw.githubusercontent.com/sajjadali-fullstack/employee-dashboard/main/dashboard.png)
+
+> Screenshot uploaded in repo: `dashboard.png`
+
+## Author
+Developed by **Sajjad Ali**  
+GitHub: [sajjadali-fullstack](https://github.com/sajjadali-fullstack)
+
+---
+
+
+
 ## 🏷️ Skills
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
