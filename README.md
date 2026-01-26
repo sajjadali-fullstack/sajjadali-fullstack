@@ -47,6 +47,8 @@ This project highlights my **Django backend skills**, **Bootstrap 5 design capab
 
 ## Preview
 ![Dashboard Screenshot](https://raw.githubusercontent.com/sajjadali-fullstack/employee-dashboard/main/dashboard.png)
+https://raw.githubusercontent.com/sajjadali-fullstack/employee-dashboard/main/dashboard.png
+
 
 > Screenshot uploaded in repo: `dashboard.png`
 
