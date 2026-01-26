@@ -16,7 +16,7 @@
 
 ---
 
-# Employee Dashboard - Clean Coad Company
+# Employee Dashboard - Clean Code Company
 
 > **Recent Project:** This is one of my latest projects, developed to showcase my skills in Django and Bootstrap 5.  
 
