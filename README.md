@@ -32,7 +32,6 @@
 ---
 
 ## 🔹 About Me
-## 🔹 About Me
 <div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
 - 🎓 I’m <b>Sajjad Ali</b>, exploring full-stack development.<br>
 - 🔭 Currently working on <b>personal projects to sharpen my skills</b>.  <br>
