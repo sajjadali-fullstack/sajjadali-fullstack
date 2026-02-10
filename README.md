@@ -31,13 +31,10 @@
 
 ---
 
-## 🔹 About Me
-<div align="" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
 ## 🧑‍💻 About Me
-I am an entry-level Python Full-Stack Developer with hands-on experience in building web applications using Django, Django REST Framework, and Flask.  
-I enjoy solving real-world problems, building APIs, and continuously improving my backend skills.
+I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **Django, Django REST Framework, and Flask**.  
+I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
 
-</div>
 
 
 ---
