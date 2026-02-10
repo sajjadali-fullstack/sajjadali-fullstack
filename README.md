@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
 </p>
-
+<div align="center">
+  
 # Hi 👋 I'm Sajjad Ali
+</div>
 
 🚀 Full-Stack Python Developer  
 🐍 Python • Django • Django REST Framework • Flask 
