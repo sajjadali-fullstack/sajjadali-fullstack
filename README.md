@@ -8,7 +8,7 @@
 </div>
 
 🚀 Full-Stack Python Developer  
-🐍 Python • Django • Django REST Framework • Flask 
+🐍 Python • Django • Django REST API • Flask 
 🌐 HTML • CSS • JavaScript • React (Basic)
 
 📍 Mumbai, India  
