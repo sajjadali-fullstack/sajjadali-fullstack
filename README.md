@@ -32,12 +32,11 @@
 ---
 
 ## 🔹 About Me
-<div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
-- 🎓 I’m <b>Sajjad Ali</b>, exploring full-stack development.<br>
-- 🔭 Currently working on <b>personal projects to sharpen my skills</b>.  <br>
-- 🌱 Learning <b>deep frontend & backend technologies<b>.  <br>
-- 💬 Ask me about <b>Python, Django, Flask, JS, React, HTML, CSS, Bootstrap</b> .  <br>
-- ⚡ Fun fact: <b>Exploring the world of coding, one project at a time 🚀</b>
+<div align="" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
+## 🧑‍💻 About Me
+I am an entry-level Python Full-Stack Developer with hands-on experience in building web applications using Django, Django REST Framework, and Flask.  
+I enjoy solving real-world problems, building APIs, and continuously improving my backend skills.
+
 </div>
 
 
