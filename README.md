@@ -3,8 +3,16 @@
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
 </p>
 
-<h1 align="center">Hi there, I'm Sajjad Ali 👋</h1>
-<h3 align="center">Full-Stack Python Developer 💻</h3>
+# Hi 👋 I'm Sajjad Ali
+
+🚀 Full-Stack Python Developer  
+🐍 Python • Django • Django REST Framework • Flask 
+🌐 HTML • CSS • JavaScript • React (Basic)
+
+📍 Mumbai, India  
+💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" width="400"/>
