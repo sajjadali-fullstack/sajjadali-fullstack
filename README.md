@@ -10,7 +10,6 @@
 🚀 Full-Stack Python Developer  
 🐍 Python • Django • Django REST API • Flask 
 🌐 HTML • CSS • JavaScript • React (Basic)
-
 📍 Mumbai, India  
 💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
 
