@@ -16,10 +16,14 @@
 📍 Mumbai, India  
 💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
 
+---
+
 I specialize in building full-stack web applications using Python and Django for backend development, along with HTML, CSS, JavaScript, and Bootstrap for responsive frontend design.  
 Passionate about writing clean, maintainable code and developing user-friendly web interfaces.  
-Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumbai and available for immediate joining.
 
+---
+
+Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumbai and available for immediate joining.
 
 ---
 
