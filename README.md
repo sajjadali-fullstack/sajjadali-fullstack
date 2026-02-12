@@ -54,12 +54,11 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | Python, Django, Bootstrap |
+| [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | Python, Django, HTML, CSS |
+| [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media friend request UI simulation | HTML, CSS, JavaScript |
 | [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | Python, Tkinter |
 | [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) | Banking operations management system | Python |
-| [Facebook Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media UI simulation | HTML, CSS, JavaScript |
-| [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | Python, Django, HTML, CSS |
-| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | Python, Django, Bootstrap |
-| [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media friend request UI simulation | HTML, CSS, JavaScript |
 
 📍 Based in Mumbai  
 💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
