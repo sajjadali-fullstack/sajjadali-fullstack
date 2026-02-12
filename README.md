@@ -5,6 +5,9 @@
 <div align="center">
   
 # Hi 👋 I'm Sajjad Ali
+💻 Entry-Level Full Stack Python Developer  
+📍 Based in Mumbai, India  
+
 </div>
 
 🚀 Full-Stack Python Developer  
@@ -12,6 +15,11 @@
 🌐 HTML • CSS • JavaScript • React (Basic)
 📍 Mumbai, India  
 💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
+
+I specialize in building full-stack web applications using Python and Django for backend development, along with HTML, CSS, JavaScript, and Bootstrap for responsive frontend design.  
+Passionate about writing clean, maintainable code and developing user-friendly web interfaces.  
+Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumbai and available for immediate joining.
+
 
 ---
 
@@ -25,18 +33,12 @@
 
 ---
 
-## 🏷️ Skills
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  
-</p>
+## 🛠 Technical Skills
+
+**Backend:** Python, Django  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap  
+**Database:** SQLite  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
@@ -48,12 +50,19 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 ---
 
-## 🚀 Projects
-<div align="center" style="border:1px solid #444; border-radius:10px; padding:15px; max-width:700px;">
-- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) 🐍💻 – Python & Tkinter  <br>
-- [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) 🐍 – Python  <br>
-- [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) – HTML,CSS,JS
-</div>
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | Python, Tkinter |
+| [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) | Banking operations management system | Python |
+| [Facebook Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media UI simulation | HTML, CSS, JavaScript |
+| [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | Python, Django, HTML, CSS |
+| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | Python, Django, Bootstrap |
+| [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media friend request UI simulation | HTML, CSS, JavaScript |
+
+📍 Based in Mumbai  
+💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
 
 ---
 
