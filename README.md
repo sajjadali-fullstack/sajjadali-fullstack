@@ -58,7 +58,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
-| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | Python, Django, Bootstrap |
+| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | Python, Django, (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) Bootstrap |
 | [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | Python, Django, HTML, CSS |
 | [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media friend request UI simulation | HTML, CSS, JavaScript |
 | [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | Python, Tkinter |
