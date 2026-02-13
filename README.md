@@ -68,6 +68,10 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
 
 ---
+Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
+LinkedIn: (No social media currently)
+
+---
 
 ## 📊 This Week I Spent My Time On
 <p align="center">
