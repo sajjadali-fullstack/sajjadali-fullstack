@@ -72,7 +72,7 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
   <!-- 
   <b>Tools:</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
--->
+  -->
 </p>
 ---
 
