@@ -74,8 +74,9 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
   -->
 </p>
----
 
+
+---
 
 ## 🧑‍💻 About Me
 I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **Django, Django REST Framework, and Flask**.  
