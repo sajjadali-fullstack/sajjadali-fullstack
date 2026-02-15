@@ -46,30 +46,35 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
 
 ---
 
-### 💻 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django" />
-</p>
+<h2 align="center">🛠 Technical Skills</h2>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
+<p align="center">
+  
+  <!-- Backend -->
+  <b>Backend:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,django,flask" height="40"/>
 
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+  <br><br>
 
-### 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+  <!-- Frontend -->
+  <b>Frontend:</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" height="40"/>
 
+  <br><br>
+
+  <!-- Database -->
+  <b>Database:</b><br>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,oracle" height="40"/>
+
+  <br><br>
+
+  <!-- Tools -->
+  <b>Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
+
+</p>
 ---
 
-
----
 
 ## 🧑‍💻 About Me
 I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **Django, Django REST Framework, and Flask**.  
