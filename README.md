@@ -54,19 +54,19 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
   <b>Backend:</b><br>
   <img src="https://skillicons.dev/icons?i=python,django,flask" height="40"/>
 
-  <br><br>
+  <br>
 
   <!-- Frontend -->
   <b>Frontend:</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" height="40"/>
 
-  <br><br>
+  <br>
 
   <!-- Database -->
   <b>Database:</b><br>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,oracle" height="40"/>
 
-  <br><br>
+  <br>
 
   <!-- Tools -->
   <b>Tools:</b><br>
