@@ -58,7 +58,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
   <!-- Frontend -->
   <b>Frontend:</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40"/>
 
   <br>
 
