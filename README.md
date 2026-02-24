@@ -97,11 +97,11 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 | Project | Description | Tech Stack |
 |----------|------------|------------|
 | [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | Instant QR code generator for digital restaurant menus with download feature | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> <br> Python, Django, QR-Code, Pillow |
-| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | <img src="https://skillicons.dev/icons?i=python,django,boostrap" height="20"/> <br> Python, Django, Bootstrap |
+| [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | <img src="https://skillicons.dev/icons?i=python,django,bootstrap" height="20"/> <br> Python, Django, Bootstrap |
 | [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | <img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> <br> Python, Django, HTML, CSS |
 | [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media friend request UI simulation | html,css,js" height="20"/> <br> HTML, CSS, JavaScript |
-| [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | Python, Tkinter |
-| [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) | Banking operations management system | Python |
+| [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python, Tkinter |
+| [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) | Banking operations management system |<img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python |
 
 📍 Based in Mumbai  
 💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
