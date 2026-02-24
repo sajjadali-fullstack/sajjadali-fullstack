@@ -92,7 +92,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀  Recent Projects
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
