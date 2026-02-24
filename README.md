@@ -12,7 +12,7 @@
 
 🚀 Full-Stack Python Developer  
 🐍 Python • Django • Django REST API • Flask (Basic) 
-🌐 HTML • CSS • JavaScript • React (Basic)
+🌐 HTML • CSS • JavaScript • React (Basic) <br>
 📍 Mumbai, India  
 💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
 
@@ -63,7 +63,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
   <br>
 
   <!-- Database -->
-  <b>Database:</b><br>
+  <b>Database: </b><br>
   <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
 
   <br>
