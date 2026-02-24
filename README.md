@@ -10,10 +10,10 @@
 
 </div>
 
-🚀 Full-Stack Python Developer  
-🐍 Python • Django • Django REST API • Flask (Basic) 
+🚀 Full-Stack Python Developer  <br>
+🐍 Python • Django • Django REST API • Flask (Basic)  <br>
 🌐 HTML • CSS • JavaScript • React (Basic) <br>
-📍 Mumbai, India  
+📍 Mumbai, India  <br>
 💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
 
 ---
@@ -64,7 +64,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
   <br>
 
   <!-- Database -->
-  <b> Database: </b><br>
+  <b> Database: </b><br><br>
   <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
 
   <br>
