@@ -96,7 +96,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
-| [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | Instant QR code generator for digital restaurant menus with download feature | <img src="https://skillicons.dev/icons?i=python,django" height="20"/>  Python, Django, QR-Code, Pillow |
+| [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | Instant QR code generator for digital restaurant menus with download feature | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> <br> Python, Django, QR-Code, Pillow |
 | [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | Python, Django, Bootstrap |
 | [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | Python, Django, HTML, CSS |
 | [Facebook-Style Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | Interactive social media friend request UI simulation | HTML, CSS, JavaScript |
