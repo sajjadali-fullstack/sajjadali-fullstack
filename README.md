@@ -61,9 +61,10 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40"/>
 
   <br>
+  <br>
 
   <!-- Database -->
-  <b>Database: </b><br>
+  <b> Database: </b><br>
   <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
 
   <br>
