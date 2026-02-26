@@ -5,10 +5,12 @@
   
 # 👨‍💻 Sajjad Ali | Full Stack Python Developer
 <div align="center">
-💻 Entry-Level Full Stack Python Developer  
+💻 Entry-Level Full Stack Python Developer  <br>
 📍 Based in Mumbai, India  
 
 </div>
+
+---
 
 🚀 Full-Stack Python Developer  <br>
 🐍 Python • Django • Django REST API • Flask (Basic)  <br>
