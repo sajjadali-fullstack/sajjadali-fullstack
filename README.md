@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   
-# Hi 👋 I'm Sajjad Ali
+# 👨‍💻 Sajjad Ali | Full Stack Python Developer
 💻 Entry-Level Full Stack Python Developer  
 📍 Based in Mumbai, India  
 
