@@ -12,6 +12,61 @@
 
 ---
 
+## 🧑‍💻 About Me
+I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **(Django, Django REST Framework, and Flask)**.  
+I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
+
+💼 Currently at:
+. 🧑‍💻 
+
+---
+
+<h2 align="center">🛠 Technical Skills</h2>
+
+<p align="center">
+  
+  <!-- Languages -->
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript" height="40"/>
+
+  <br>
+
+  <!-- Frontend -->
+  <b>Frontend:</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40"/>
+
+  <br>
+  <br>
+  
+  <!-- Backend -->
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=django,flask" height="40"/>
+
+  <br>
+
+  <!-- Database -->
+  <b> Database: </b><br><br>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+
+  <br>
+
+   <!-- API -->
+   <!--
+  <b>REST API:</b><br>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+   -->
+   
+  <!-- Tools -->
+  <!-- 
+  <b>Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
+  -->
+</p>
+
+
+---
+
+
 🚀 Full-Stack Python Developer  <br>
 🐍 Python • Django • Django REST API • Flask (Basic)  <br>
 🌐 HTML • CSS • JavaScript • React (Basic) <br>
@@ -39,59 +94,12 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
 
 ---
 
-
-## 🧑‍💻 About Me
-I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **Django, Django REST Framework, and Flask**.  
-I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
-
----
-
----
-
-<h2 align="center">🛠 Technical Skills</h2>
-
-<p align="center">
-  
-  <!-- Backend -->
-  <b>Backend:</b><br>
-  <img src="https://skillicons.dev/icons?i=python,django" height="40"/>
-
-  <br>
-
-  <!-- Frontend -->
-  <b>Frontend:</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40"/>
-
-  <br>
-  <br>
-
-  <!-- Database -->
-  <b> Database: </b><br><br>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-
-  <br>
-
-   <!-- API -->
-   <!--
-  <b>REST API:</b><br>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-   -->
-   
-  <!-- Tools -->
-  <!-- 
-  <b>Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
-  -->
-</p>
-
-
----
-
 ## 🛠 Technical Skills
 
-**Backend:** Python, Django  
-**Frontend:** HTML, CSS, JavaScript, React
-**Database:** SQLite  
+**Languages :** Python, JavaScript
+**Backend :**  Django, Flask 
+**Frontend :** HTML, CSS, React
+**Database :** SQLite  
 
 ---
 
