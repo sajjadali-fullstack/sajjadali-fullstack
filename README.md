@@ -14,12 +14,12 @@
 I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **(Django, Django REST Framework, and Flask)**.  
 I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
 
-💼 Currently at:
+💼 Currently at: <br>
 . 🧑‍💻 
 
 ---
 
-<h2 align="center">🛠 Technical Skills</h2>
+<h2>🧠 Technical Skills</h2>
 
 <p align="center">
   
