@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
 </p>
-<div align="center">
   
 # 👨‍💻 Sajjad Ali | Full Stack Python Developer
+<div align="center">
 💻 Entry-Level Full Stack Python Developer  
 📍 Based in Mumbai, India  
 
