@@ -24,20 +24,20 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 <p align="center">
   
   <!-- Languages -->
-  <b>Languages:</b><br>
+  <b>Languages:</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,javascript" height="40"/>
 
   <br>
 
   <!-- Frontend -->
-  <b>Frontend:</b><br>
+  <b>Frontend:</b><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40"/>
 
   <br>
   <br>
   
   <!-- Backend -->
-  <b>Backend:</b><br>
+  <b>Backend:</b><br><br>
   <img src="https://skillicons.dev/icons?i=django,flask" height="40"/>
 
   <br>
