@@ -13,8 +13,12 @@
 ## 🧑‍💻 About Me
 I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **(Django, Django REST Framework, and Flask)**.  
 I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
+I specialize in building full-stack web applications using Python and Django for backend development, along with HTML, CSS, JavaScript, and Bootstrap for responsive frontend design.  
+Passionate about writing clean, maintainable code and developing user-friendly web interfaces.  
+💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
 
-💼 **Currently at:** <br><br>
+
+💼 **Currently at:** <br>
 
 . 🧑‍💻 
 
@@ -64,22 +68,10 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 
 ---
-
-
-🚀 Full-Stack Python Developer  <br>
 🐍 Python • Django • Django REST API • Flask (Basic)  <br>
 🌐 HTML • CSS • JavaScript • React (Basic) <br>
 📍 Mumbai, India  <br>
 💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
-
----
-
-I specialize in building full-stack web applications using Python and Django for backend development, along with HTML, CSS, JavaScript, and Bootstrap for responsive frontend design.  
-Passionate about writing clean, maintainable code and developing user-friendly web interfaces.  
-
----
-
-Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumbai and available for immediate joining.
 
 ---
 
@@ -90,15 +82,6 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
 <p align="center">
   Glad to see you here! I’m passionate about coding, building projects, and learning modern web technologies.
 </p>
-
----
-
-## 🛠 Technical Skills
-
-**Languages :** Python, JavaScript
-**Backend :**  Django, Flask 
-**Frontend :** HTML, CSS, React
-**Database :** SQLite  
 
 ---
 
@@ -113,8 +96,6 @@ Currently seeking Entry-Level Full Stack Python Developer opportunities in Mumba
 | [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python, Tkinter |
 | [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) | Banking operations management system |<img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python |
 
-📍 Based in Mumbai  
-💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
 
 ---
 
