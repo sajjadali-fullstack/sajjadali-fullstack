@@ -19,9 +19,11 @@ I specialize in building full-stack web applications using Python and Django for
 
 Passionate about writing clean, maintainable code and developing user-friendly web interfaces.  
 
+💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
+
 💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
 
-
+<br>
 
 💼 **Currently at:** <br>
 
@@ -75,8 +77,6 @@ Passionate about writing clean, maintainable code and developing user-friendly w
 ---
 🐍 Python • Django • Django REST API • Flask (Basic)  <br>
 🌐 HTML • CSS • JavaScript • React (Basic) <br>
-📍 Mumbai, India  <br>
-💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
 
 ---
 
