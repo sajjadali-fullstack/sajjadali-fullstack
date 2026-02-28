@@ -15,14 +15,16 @@ I am an entry-level Python **Full-Stack Developer** with hands-on experience in 
 
 I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
 
-I specialize in building full-stack web applications using Python and Django for backend development, along with HTML, CSS, JavaScript, and Bootstrap for responsive frontend design.  
+---
 
-Passionate about writing clean, maintainable code and developing user-friendly web interfaces.  
-
-💼 Open to Frontend /  Backend / Python Developer opportunities (Mumbai)
-
-💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
-
+## 💼 Open To Work
+- Full Stack Python Developer Roles
+- Frontend Developer Roles  
+- Backend Developer Roles  
+- Python Developer Roles
+  
+📍 **Location:** Mumbai  
+🎯 **Actively Seeking:** Entry-Level Full-Stack Python Developer Opportunities
 <br>
 
 💼 **Currently at:** <br>
@@ -76,7 +78,7 @@ Passionate about writing clean, maintainable code and developing user-friendly w
 
 ---
 🐍 Python • Django • Django REST API • Flask (Basic)  <br>
-🌐 HTML • CSS • JavaScript • React (Basic) <br>
+🌐 HTML • CSS • JavaScript • React, Tailwind (Basic) <br>
 
 ---
 
