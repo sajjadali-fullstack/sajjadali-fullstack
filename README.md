@@ -10,6 +10,15 @@
 
 </div>
 
+<p align="center">
+  <a href="mailto:sajjadali.dev01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Mumbai,_India-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open_to-Work-success?style=for-the-badge">
+</p>
+
+
 ## 🧑‍💻 About Me
 I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **(Django, Django REST Framework, and Flask)**.  
 
