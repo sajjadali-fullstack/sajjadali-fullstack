@@ -21,7 +21,7 @@ Passionate about writing clean, maintainable code and developing user-friendly w
 
 💼 Actively seeking Entry-Level Full Stack Python Developer opportunities in Mumbai
 
---
+
 
 💼 **Currently at:** <br>
 
