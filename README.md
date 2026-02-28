@@ -10,13 +10,6 @@
 
 </div>
 
-<p align="center">
-  <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Mumbai,_India-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open_to-Work-success?style=for-the-badge">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai" />
@@ -26,11 +19,11 @@
 
 <!-- Hire Me Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Open_to_Work-Entry_Level_Full_Stack_Developer-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_Location-Mumbai,_India-blue?style=for-the-badge" />
   <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
   </a>
+  <img src="https://img.shields.io/badge/Location-Mumbai,_India-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open_to-Work-success?style=for-the-badge">
 </p>
 
 
