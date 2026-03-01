@@ -114,6 +114,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [django-quiz-certificates](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A Django web application for taking quizzes with categories, difficulties, scoring, and PDF certificates. |  <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
 | [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | Instant QR code generator for digital restaurant menus with download feature | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> <br> Python, Django, QR-Code, Pillow |
 | [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | <img src="https://skillicons.dev/icons?i=python,django,bootstrap" height="20"/> <br> Python, Django, Bootstrap |
 | [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | <img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> <br> Python, Django, HTML, CSS |
