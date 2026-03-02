@@ -17,6 +17,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD43B&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai">
+  </picture>
+</p>a
 ---
 
 ## 🧑‍💻 About Me
