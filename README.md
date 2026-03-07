@@ -102,6 +102,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+|[Flask News Portal](https://github.com/sajjadali-fullstack/flask-news-portal) | Modern News Portal UI built using Flask and Jinja2. Fully mobile-responsive and easy to scale. | <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap" height="20"/> |
 | [django-quiz-certificates](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A Django web application for taking quizzes with categories, difficulties, scoring, and PDF certificates. |  <img src="https://skillicons.dev/icons?i=python,django,sqlite,html,css,bootstrap" height="20"/> |
 | [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | Instant QR code generator for digital restaurant menus with download feature | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> <br> QR-Code, Pillow |
 | [Task Manager Django](https://github.com/sajjadali-fullstack/task-manager-django) | Task management web app with add, update, delete and status tracking | <img src="https://skillicons.dev/icons?i=python,django,bootstrap" height="20"/> |
