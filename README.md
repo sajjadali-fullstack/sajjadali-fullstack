@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sajjadali-fullstack&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
