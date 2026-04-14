@@ -98,6 +98,16 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 ---
 
+## 🚀  Top Projects
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+|[GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built using Django. This project focuses on clean architecture, template inheritance, and professional backend logic, following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
+|[Django Quiz App with PDF](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A Django web application for taking quizzes with categories, difficulties, scoring, and PDF certificates.. A robust Django-based Quiz application with automated PDF certificate generation, category filtering, and user progress tracking. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+|[NewsSphere](https://github.com/sajjadali-fullstack/flask-news-portal) | A responsive News Portal web application built with Python (Flask) and Bootstrap 5, featuring template inheritance and dynamic routing for Movies, Sports, and Politics. | <img src="https://skillicons.dev/icons?i=python,django,flask" height="20"/> |
+
+---
+
 ## 🚀  Recent Projects
 
 | Project | Description | Tech Stack |
