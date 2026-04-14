@@ -64,7 +64,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
   <!-- Database -->
   <b> Database: </b><br><br>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="40"/>
 
   <br>
 
