@@ -122,6 +122,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 | [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python, Tkinter |
 | [Bank Management System](https://github.com/sajjadali-fullstack/Bank-management) | Banking operations management system |<img src="https://skillicons.dev/icons?i=python" height="20"/> |
 | [Luma Landing Page](https://github.com/sajjadali-fullstack/luma-landing-page) | A modern and responsive landing page designed to showcase a clean UI and smooth layout. Built with a focus on simplicity, responsiveness, and visual appeal. |<img src="https://skillicons.dev/icons?i=html,css" height="20"/> |
+| [First index.html](https://github.com/sajjadali-fullstack/first_index.html) | Simple Hello World Webpage. |<img src="https://skillicons.dev/icons?i=html" height="20"/> |
 
 
 ---
