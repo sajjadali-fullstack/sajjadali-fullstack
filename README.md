@@ -151,12 +151,6 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 </p>
 
 ---
-# My GitHub Stats 🚀
-
-![Sajjad's Stats](https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=dark)
----
 
 ## 🌐 Connect With Me
 <p align="center">
