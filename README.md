@@ -1,4 +1,4 @@
-
+![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=radical)
 <p align="center">
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
 </p>
