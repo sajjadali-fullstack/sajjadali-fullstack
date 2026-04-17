@@ -30,7 +30,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 - Python Developer Roles
   
 📍 **Location:** Mumbai  
-🎯 **Actively Seeking:** Entry-Level Full-Stack Python Developer Opportunities
+🎯 **Actively Seeking:** ***Entry-Level Full-Stack Python Developer Opportunities***
 <br>
 
 💼 **Currently at:** <br>
