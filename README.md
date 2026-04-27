@@ -152,28 +152,19 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="YOUR_ACTUAL_GOOGLE_DRIVE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -181,6 +172,18 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
   <i>Feel free to reach out for collaborations or just a friendly hello!</i>
 </p>
 
+<p align="center">
+  ⭐ <b>If you like my work, don’t forget to follow & star repositories!</b>
+</p>
+
 ---
 
-⭐ **If you like my work, don’t forget to follow & star repositories!**
+---
+
+<div align="center">
+  <h3>⭐ Support My Work</h3>
+  <p>If you like what I do, don't forget to <b>follow</b> and <b>star</b> the repositories!</p>
+  <a href="https://github.com/sajjadali-fullstack?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse-Repositories-blue?style=for-the-badge&logo=github" />
+  </a>
+</div>
