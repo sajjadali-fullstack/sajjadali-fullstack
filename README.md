@@ -153,12 +153,32 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <!-- (No social media currently) -->
-</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/sajjadali-fullstack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="30"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 📬 Let's Get in Touch!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linkedin/default.svg" alt="sajjadali" height="40" width="50" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/gmail/default.svg" alt="sajjadali" height="40" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  Click the icons to drop a message!
+</p>
 
 ---
 
