@@ -163,7 +163,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="YOUR_ACTUAL_GOOGLE_DRIVE_LINK_HERE" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -177,13 +177,3 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 </p>
 
 ---
-
----
-
-<div align="center">
-  <h3>⭐ Support My Work</h3>
-  <p>If you like what I do, don't forget to <b>follow</b> and <b>star</b> the repositories!</p>
-  <a href="https://github.com/sajjadali-fullstack?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-Repositories-blue?style=for-the-badge&logo=github" />
-  </a>
-</div>
