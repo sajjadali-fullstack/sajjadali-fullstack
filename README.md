@@ -98,15 +98,45 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 ---
 
-## 🚀  Top Projects
+## 🚀 Top Projects
 
 | Project | Description | Tech Stack |
-|----------|------------|------------|
-|[GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built using Django. This project focuses on clean architecture, template inheritance, and professional backend logic, following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
-|[Django Quiz App with PDF](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A Django web application for taking quizzes with categories, difficulties, scoring, and PDF certificates.. A robust Django-based Quiz application with automated PDF certificate generation, category filtering, and user progress tracking. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
-|[TaskManager](https://github.com/sajjadali-fullstack/task-manager-django) | A  Django-based TaskManager App for managing daily tasks with add, edit, delete, and completion tracking features. Built with Bootstrap and Font Awesome for responsive UI and interactive experience | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
-|[NewsSphere](https://github.com/sajjadali-fullstack/flask-news-portal) | A responsive News Portal web application built with Python (Flask) and Bootstrap 5, featuring template inheritance and dynamic routing for Movies, Sports, and Politics. | <img src="https://skillicons.dev/icons?i=python,flask" height="20"/> |
-|[QR Resturant Menu](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | A Python Django-based web application that generates unique QR codes for digital restaurant menus. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+|----------|-------------|-------------|
+| [GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built with Django. The project focuses on clean architecture, template inheritance, authentication, and professional backend logic following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
+| [Django Quiz App with PDF](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A robust Django-based Quiz application featuring categories, difficulty levels, scoring, user progress tracking, and automated PDF certificate generation. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+| [Facebook Style Friend Request](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | A responsive and interactive social profile web application inspired by Facebook’s friend request system, built using HTML, CSS, JavaScript, and Swiper.js. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
+| [QR Restaurant Menu](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | A Django-based web application that generates unique QR codes for digital restaurant menus, providing a contactless dining experience. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+| [Footwear E-commerce UI](https://sajjadali-fullstack.github.io/footwear-ecommerce-ui/) | A stylish and responsive e-commerce landing page for a premium footwear brand, designed with a modern and clean user interface. | <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="20"/> |
+| [TaskManager](https://github.com/sajjadali-fullstack/task-manager-django) | A Django-based Task Management application for managing daily tasks with add, edit, delete, and completion tracking features. Built with Bootstrap and Font Awesome for a responsive UI. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+| [NewsSphere](https://github.com/sajjadali-fullstack/flask-news-portal) | A responsive News Portal web application built with Flask and Bootstrap 5, featuring template inheritance and dynamic routing for categories like Movies, Sports, and Politics. | <img src="https://skillicons.dev/icons?i=python,flask" height="20"/> |
+
+<br>
+
+## 🌱 Currently Learning
+- Django REST Framework
+- Docker
+- API Development
+- Deployment & DevOps
+
+## 📫 Connect With Me
+<a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:sajjadali.dev01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="(https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://github.com/sajjadali-fullstack" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+## ⚡ Fun Fact
+I enjoy building real-world full-stack web applications using Django.
 
 ---
 
