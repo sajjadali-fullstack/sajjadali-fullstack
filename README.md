@@ -114,25 +114,23 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 ## 🌱 Currently Learning
 - Django REST Framework
-- Docker
 - API Development
-- Deployment & DevOps
 
 ## 📫 Connect With Me
 <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<br>
+
 <a href="mailto:sajjadali.dev01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="(https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+<br>
 
-<a href="https://github.com/sajjadali-fullstack" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 ## ⚡ Fun Fact
