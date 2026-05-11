@@ -165,9 +165,9 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-  </a>
+ <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 <p align="center">
