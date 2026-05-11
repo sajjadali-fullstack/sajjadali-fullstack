@@ -68,17 +68,17 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
   <br>
 
-   <!-- API -->
-   <!--
+ API
+ 
   <b>REST API:</b><br>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-   -->
    
-  <!-- Tools -->
-  <!-- 
+   
+ Tools 
+   
   <b>Tools:</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
-  -->
+  
 </p>
 
 
@@ -104,7 +104,10 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 |----------|------------|------------|
 |[GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built using Django. This project focuses on clean architecture, template inheritance, and professional backend logic, following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
 |[Django Quiz App with PDF](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A Django web application for taking quizzes with categories, difficulties, scoring, and PDF certificates.. A robust Django-based Quiz application with automated PDF certificate generation, category filtering, and user progress tracking. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+|[TaskManager](https://github.com/sajjadali-fullstack/task-manager-django) | A  Django-based TaskManager App for managing daily tasks with add, edit, delete, and completion tracking features. Built with Bootstrap and Font Awesome for responsive UI and interactive experience | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
 |[NewsSphere](https://github.com/sajjadali-fullstack/flask-news-portal) | A responsive News Portal web application built with Python (Flask) and Bootstrap 5, featuring template inheritance and dynamic routing for Movies, Sports, and Politics. | <img src="https://skillicons.dev/icons?i=python,flask" height="20"/> |
+|[QR Resturant Menu](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | About
+A Python Django-based web application that generates unique QR codes for digital restaurant menus. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
 
 ---
 
