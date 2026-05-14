@@ -142,6 +142,7 @@ I enjoy building real-world full-stack web applications using Django.
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+|[Other Projects (39+)](https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/) | Explore all my projects and coding work. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 |[Python Daily Challenge](https://github.com/sajjadali-fullstack/python-daily-challenges) | My daily Python coding journey, from core fundamentals to advanced full-stack concepts. | <img src="https://skillicons.dev/icons?i=python" height="20"/> |
 |[Flask News Portal](https://github.com/sajjadali-fullstack/flask-news-portal) | Modern News Portal UI built using Flask and Jinja2. Fully mobile-responsive and easy to scale. | <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap" height="20"/> |
 | [django-quiz-certificates](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A Django web application for taking quizzes with categories, difficulties, scoring, and PDF certificates. |  <img src="https://skillicons.dev/icons?i=python,django,sqlite,html,css,bootstrap" height="20"/> |
