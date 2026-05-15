@@ -71,9 +71,8 @@ Currently focused on **improving backend scalability** and **API development** u
 
   <br><br>
  
-  <b>REST API:</b> <br><br><br>
+  <b>REST API:</b> <br><br>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-  
 </p>
 
 
