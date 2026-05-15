@@ -17,9 +17,9 @@
 ---
 
 ## 🧑‍💻 About Me
-I am an entry-level Python **Full-Stack Developer** with hands-on experience in building web applications using **(Django, Django REST Framework, and Flask)**.  
+I specialize in building **Django-based full-stack applications** with clean backend architecture, authentication systems, **REST APIs**, and frontend interfaces.
 
-I enjoy solving real-world problems, **building APIs**, and continuously improving my backend skills.
+Currently focused on **improving backend scalability** and **API development** using **Django REST Framework**.
 
 ---
 
@@ -35,7 +35,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 💼 **Currently at:** <br>
 
-. 🧑‍💻 
+- 💼 Currently building personal full-stack projects
 
 ---
 
@@ -102,7 +102,7 @@ I enjoy solving real-world problems, **building APIs**, and continuously improvi
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
-| [GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built with Django. The project focuses on clean architecture, template inheritance, authentication, and professional backend logic following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
+| [🛒 GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built with Django. The project focuses on clean architecture, template inheritance, authentication, and professional backend logic following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
 | [Django Quiz App with PDF](https://github.com/sajjadali-fullstack/django-quiz-certificates) | A robust Django-based Quiz application featuring categories, difficulty levels, scoring, user progress tracking, and automated PDF certificate generation. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
 | [Facebook Style Friend Request](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) | A responsive and interactive social profile web application inspired by Facebook’s friend request system, built using HTML, CSS, JavaScript, and Swiper.js. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [QR Restaurant Menu](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu) | A Django-based web application that generates unique QR codes for digital restaurant menus, providing a contactless dining experience. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
