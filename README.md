@@ -39,7 +39,7 @@ Currently focused on **improving backend scalability** and **API development** u
 
 ---
 
-<h2>🧠 Technical Skills</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   
@@ -47,7 +47,7 @@ Currently focused on **improving backend scalability** and **API development** u
   <b>Languages:</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,javascript" height="40"/>
 
-  <br>
+  <br><br>
 
   <!-- Frontend -->
   <b>Frontend:</b><br><br>
@@ -60,24 +60,18 @@ Currently focused on **improving backend scalability** and **API development** u
   <b>Backend:</b><br><br>
   <img src="https://skillicons.dev/icons?i=django,flask" height="40"/>
 
-  <br>
+  <br><br>
 
   <!-- Database -->
   <b> Database: </b><br><br>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 
-  <br>
+  <br><br>
 
  API
  
-  <b>REST API:</b><br>
+  <b>REST API:</b> <br><br><br>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-   
-   
- Tools 
-   
-  <b>Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
   
 </p>
 
