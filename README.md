@@ -3,12 +3,15 @@
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
 </p>
   
-# 👨‍💻 Sajjad Ali | Full Stack Python Developer
-<div align="center">
-💻 Entry-Level Full Stack Python Developer  <br>
-📍 Based in Mumbai, India  
+<h1 align="center"> Sajjad Ali | Full Stack Python Developer </h1>
 
+<div align="center">
+💻 Full Stack Python Developer <br>
+📍 Mumbai, India
+🚀 Seeking Full-Time Opportunities
 </div>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&weight=700&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai" />
@@ -67,8 +70,6 @@ Currently focused on **improving backend scalability** and **API development** u
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 
   <br><br>
-
- API
  
   <b>REST API:</b> <br><br><br>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
