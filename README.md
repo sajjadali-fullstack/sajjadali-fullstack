@@ -6,7 +6,7 @@
 <h1 align="center"> Sajjad Ali | Full Stack Python Developer </h1>
 
 <div align="center">
-🚀<b> Seeking Full-Time Opportunities </b>
+🚀<b> Seeking Full-Time Opportunitie </b>
 </div>
 
 ---
