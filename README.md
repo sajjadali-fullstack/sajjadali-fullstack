@@ -8,7 +8,7 @@
 <div align="center">
 💻 Full Stack Python Developer <br>
 📍 Mumbai, India
-🚀 Seeking Full-Time Opportunities
+🚀<b> Seeking Full-Time Opportunities </b>
 </div>
 
 ---
