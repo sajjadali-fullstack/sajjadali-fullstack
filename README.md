@@ -36,7 +36,7 @@ Currently focused on **improving backend scalability** and **API development** u
 
 💼 **Currently at:** <br>
 
-- 💼 Currently building personal full-stack projects
+- 💼 Currently building GenzKart E-commerce Website
 
 ---
 
