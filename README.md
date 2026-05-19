@@ -179,15 +179,20 @@ I enjoy building real-world full-stack web applications using Django.
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
+* **LinkedIn:**  
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
   </a>
+  
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sajjadali.dev01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+* **Gmail:**  
+  <a href="mailto:sajjadali.dev01@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
   </a>
+  
   &nbsp;
+  
  <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
