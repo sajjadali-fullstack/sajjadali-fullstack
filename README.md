@@ -175,7 +175,7 @@ I enjoy building real-world full-stack web applications using Django.
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
 </p>
----
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
