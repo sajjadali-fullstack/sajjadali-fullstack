@@ -162,17 +162,19 @@ I enjoy building real-world full-stack web applications using Django.
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.shion.dev/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
 </p>
 
+<!-- GitHub Streak Card -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
