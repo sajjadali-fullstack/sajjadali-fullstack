@@ -162,7 +162,7 @@ I enjoy building real-world full-stack web applications using Django.
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -170,7 +170,7 @@ I enjoy building real-world full-stack web applications using Django.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
 </p>
 
 ---
