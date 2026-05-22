@@ -108,22 +108,31 @@ Currently focused on **improving backend scalability** and **API development** u
 - Django REST Framework
 - API Development
 
-## 📫 Connect With Me
-<a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<h2 align="center">🌐 Connect With Me</h2>
 
-<br>
+* **LinkedIn:**  
+  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+  </a>
+  
+  &nbsp;
 
-<a href="mailto:sajjadali.dev01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br>
-
-<a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
+* **Gmail:**  
+  <a href="mailto:sajjadali.dev01@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
+  </a>
+  
+  &nbsp;
+  
+ <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+</p>
+
+<p align="center">
+  <i>Feel free to reach out for collaborations or just a friendly hello!</i>
+</p>
+
 
 ## ⚡ Fun Fact
 I enjoy building real-world full-stack web applications using Django.
@@ -154,30 +163,7 @@ I enjoy building real-world full-stack web applications using Django.
 </p>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
 
-* **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
-  </a>
-  
-  &nbsp;
-
-* **Gmail:**  
-  <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
-  </a>
-  
-  &nbsp;
-  
- <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-</p>
-
-<p align="center">
-  <i>Feel free to reach out for collaborations or just a friendly hello!</i>
-</p>
 
 <p align="center">
   ⭐ <b>If you like my work, don’t forget to follow & star repositories!</b>
