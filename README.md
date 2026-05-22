@@ -6,7 +6,7 @@
 <h1 align="center"> Sajjad Ali | Full Stack Python Developer </h1>
 
 <div align="center">
-🚀<b> Seeking Full-Time Opportunitie </b>
+💎<b> Seeking Full-Time Opportunitie </b>
 </div>
 
 ---
@@ -36,7 +36,7 @@ Currently focused on **improving backend scalability** and **API development** u
 
 💼 **Currently at:** <br>
 
-- 💼 Currently building GenzKart E-commerce Website
+-  Currently building GenzKart E-commerce Website
 
 ---
 
@@ -90,7 +90,7 @@ Currently focused on **improving backend scalability** and **API development** u
 
 ---
 
-## 🚀 Top Projects
+## 🔥🕵️‍♀️ Top Projects
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
