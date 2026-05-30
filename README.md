@@ -31,6 +31,8 @@
 </div>
 
 ---
+
+
 ## 👨‍💻 About Me
 
 <table align="center" width="100%">
@@ -65,6 +67,7 @@
 
 ---
 
+<!--
 ## 🧑‍💻 About Me
 I specialize in building **Django-based full-stack applications** with clean backend architecture, authentication systems, **REST APIs**, and frontend interfaces.
 
@@ -85,8 +88,9 @@ Currently focused on **improving backend scalability** and **API development** u
 💼 **Currently at:** <br>
 
 -  Currently building GenzKart E-commerce Website
+-->
 
----
+
 
 <h2 align="center">🛠 Tech Stack</h2>
 
