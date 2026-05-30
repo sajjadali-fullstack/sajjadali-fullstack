@@ -98,38 +98,31 @@ Currently focused on **improving backend scalability** and **API development** u
   
   <!-- Languages -->
   <b>Languages:</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript" height="20"/>
 
-  <br><br>
+  <br>
 
   <!-- Frontend -->
   <b>Frontend:</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="20"/>
 
-  <br>
   <br>
   
   <!-- Backend -->
   <b>Backend:</b><br><br>
-  <img src="https://skillicons.dev/icons?i=django,flask" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django,flask" height="20"/>
 
-  <br><br>
+  <br>
 
   <!-- Database -->
   <b> Database: </b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="20"/>
 
-  <br><br>
+  <br>
  
   <b>REST API:</b> <br><br>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="20"/>
 </p>
-
-
----
-🐍 Python • Django • Django REST API • Flask (Basic)  <br>
-🌐 HTML • CSS • JavaScript • React, Tailwind (Basic) <br>
-
 ---
 
 <p align="center">
