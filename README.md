@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sajjad%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%7C%20Learning%20DRF&descAlignY=58&descColor=7ecfff&animation=fadeIn" alt="Sajjad Ali Header" width="100%" />
 </div>
 
-<div align="center">
-  <!-- Customized Typing Animation for Sajjad Ali -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Python+Developer!;Building+Scalable+Web+Applications!;From+Mumbai,+India+🇮🇳&font=Fira+Code&center=true&width=450&height=50&duration=4000&pause=1000&color=7ecfff" alt="Typing Effect" />
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&weight=700&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;From+Mumbai+India;Open+to+Work+in+Mumbai" />
+</p>
 ---
 
 <p align="center">
@@ -22,9 +20,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&weight=700&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;Open+to+Work+in+Mumbai" />
-</p>
+
 
 ---
 
