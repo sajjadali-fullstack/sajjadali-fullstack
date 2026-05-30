@@ -38,7 +38,7 @@
     <td width="50%" valign="top">
       <h4>🎯 Current Focus</h4>
       <ul>
-        <li><strong>Role:</strong> Entry-Level Full-Stack Python Developer</li>
+        <li><strong>Actively Seeking Role:</strong> <i>Entry-Level Full-Stack Python Developer Opportunities</i> </li>
         <li><strong>Status:</strong> Open to Work / Immediate Joiner ⚡</li>
         <li><strong>Location:</strong> Mumbai, India <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f3.png" width="20" height="20" valign="middle"/></li>
       </ul>
@@ -57,7 +57,7 @@
       <h4>🧠 Continuous Learning</h4>
       <ul>
         <li><strong>Exploring:</strong> RESTful API Design & Advanced Backend Architectures</li>
-        <li><strong>💬 Ask Me About:</strong> Python, Django,RESTful API's and DataBase queries</li>
+        <li><strong>💬 Ask Me About:</strong> Python, Django,RESTful API's and DataBase</li>
       </ul>
     </td>
   </tr>
