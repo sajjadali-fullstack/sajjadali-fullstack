@@ -38,7 +38,7 @@
     <td width="50%" valign="top">
       <h4>🎯 Current Focus</h4>
       <ul>
-        <li><strong>Actively Seeking Role:</strong> <i>Entry-Level Full-Stack Python Developer Opportunities</i> </li>
+        <li><strong>Actively Seeking Role:</strong> <i>Entry-Level Full-Stack Python Developer</i> </li>
         <li><strong>Status:</strong> Open to Work / Immediate Joiner ⚡</li>
         <li><strong>Location:</strong> Mumbai, India <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f3.png" width="20" height="20" valign="middle"/></li>
       </ul>
