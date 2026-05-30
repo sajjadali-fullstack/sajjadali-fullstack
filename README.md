@@ -45,33 +45,23 @@
       <h4>🛠️ Core Tech Stack</h4>
       <ul>
         <li><strong>Backend:</strong> Python, Django, Django REST Framework (DRF), Flask</li>
-        <li><strong>Frontend & DB:</strong> Bootstrap, Tailwind CSS, MySQL, SQLite</li>
+        <li><strong>Frontend & DB:</strong> Bootstrap, Tailwind CSS, MySQL, Oracle</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Projects & Practice</h4>
       <ul>
         <li><strong>Main Project:</strong> Building <strong>GenZKart</strong> (An E-commerce Platform)</li>
-        <li><strong>Logic Building:</strong> Solved 75+ logical programming problems in Python 🧠</li>
+        <li><strong>Logic Building:</strong> Solved 150+ logical programming problems in Python 🧠</li>
       </ul>
       <h4>🧠 Continuous Learning</h4>
       <ul>
         <li><strong>Exploring:</strong> RESTful API Design & Advanced Backend Architectures</li>
-        <li><strong>💬 Ask Me About:</strong> Python basics, Django MVC, and database queries</li>
+        <li><strong>💬 Ask Me About:</strong> Python, Django,RESTful API's and DataBase queries</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Tech Stack Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
 
 ---
 
