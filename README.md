@@ -6,7 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&weight=700&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;From+Mumbai+India;Open+to+Work+in+Mumbai" />
 </p>
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&weight=700&pause=1000&color=7ecfff&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;From+Mumbai+India;Open+to+Work+in+Mumbai" alt="Typing Effect" />
+</p>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xwkRbuwdhhMAAAAC/john-cena-wwe.gif" width="280" alt="Sajjad Ali A"/>
