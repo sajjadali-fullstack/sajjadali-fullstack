@@ -39,8 +39,8 @@
       <h4>🎯 Current Focus</h4>
       <ul>
         <li><strong>Role:</strong> Entry-Level Full-Stack Python Developer</li>
-        <li><strong>Status:</strong> Open to Work / Immediate Joiner 🚀</li>
-        <li><strong>Location:</strong> Mumbai, India 🇮🇳</li>
+        <li><strong>Status:</strong> Open to Work / Immediate Joiner ⚡</li>
+        <li><strong>Location:</strong> Mumbai, India <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f3.png" width="20" height="20" valign="middle"/></li>
       </ul>
       <h4>🛠️ Core Tech Stack</h4>
       <ul>
