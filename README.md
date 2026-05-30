@@ -97,31 +97,29 @@ Currently focused on **improving backend scalability** and **API development** u
 <p align="center">
   
   <!-- Languages -->
-  <b>Languages:</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,javascript" height="20"/>
-
-  <br>
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript" height="25"/>
 
   <!-- Frontend -->
-  <b>Frontend:</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="20"/>
+  <b>Frontend:</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="25"/>
 
   <br>
   
   <!-- Backend -->
-  <b>Backend:</b><br><br>
-  <img src="https://skillicons.dev/icons?i=django,flask" height="20"/>
+  <b>Backend:</b><br>
+  <img src="https://skillicons.dev/icons?i=django,flask" height="25"/>
 
   <br>
 
   <!-- Database -->
-  <b> Database: </b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="20"/>
+  <b> Database: </b><br>
+  <img src="https://skillicons.dev/icons?i=mysql" height="25"/>
 
   <br>
  
-  <b>REST API:</b> <br><br>
-  <img src="https://skillicons.dev/icons?i=postman" height="20"/>
+  <b>REST API:</b><br>
+  <img src="https://skillicons.dev/icons?i=postman" height="25"/>
 </p>
 ---
 
