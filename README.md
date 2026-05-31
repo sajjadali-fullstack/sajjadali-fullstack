@@ -92,7 +92,7 @@ Currently focused on **improving backend scalability** and **API development** u
 
 
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
 <p align="center">
   
@@ -117,9 +117,16 @@ Currently focused on **improving backend scalability** and **API development** u
   <img src="https://skillicons.dev/icons?i=mysql" height="25"/>
 
   <br>
- 
+  
+  <!-- API's --> 
   <b>REST API:</b><br>
   <img src="https://skillicons.dev/icons?i=postman" height="25"/>
+
+  <br>
+  
+  <!-- Tools --> 
+  <b>Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" height="25"/>
 </p>
 ---
 
