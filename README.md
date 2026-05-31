@@ -97,38 +97,39 @@ Currently focused on **improving backend scalability** and **API development** u
 <p align="center">
   
   <!-- Languages -->
-  <b>Languages:</b><br>
+  <b>🔧 Languages:</b><br>
   <img src="https://skillicons.dev/icons?i=python,javascript" height="25"/>
 
   <!-- Frontend -->
-  <b>Frontend:</b><br>
+  <b>🎨 Frontend:</b><br>
+  
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="25"/>
 
   <br>
   
   <!-- Backend -->
-  <b>Backend:</b><br>
+  <b>🧠 Backend:</b><br>
   <img src="https://skillicons.dev/icons?i=django,flask" height="25"/>
 
   <br>
 
   <!-- Database -->
   <b> Database: </b><br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="25"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
 
   <br>
   
   <!-- API's --> 
   <b>REST API:</b><br>
-  <img src="https://skillicons.dev/icons?i=postman" height="25"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30"/>
 
   <br>
   
   <!-- Tools --> 
-  <b>Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" height="25"/>
+  <b>🔨 Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" height="30"/>
 </p>
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" width="400"/>
