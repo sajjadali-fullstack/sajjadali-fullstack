@@ -205,8 +205,10 @@ I enjoy building real-world full-stack web applications using Django.
 
 <!-- GitHub Streak Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata&v=2026" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata&v=1)](https://git.io/streak-stats)
 
 <p align="center">
   <!-- Top Languages Card -->
