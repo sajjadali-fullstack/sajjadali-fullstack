@@ -98,7 +98,10 @@ Currently focused on **improving backend scalability** and **API development** u
   
   <!-- Languages -->
   <b>🔧 Languages:</b><br>
+  
   <img src="https://skillicons.dev/icons?i=python,javascript" height="25"/>
+
+<br>
 
   <!-- Frontend -->
   <b>🎨 Frontend:</b><br>
@@ -208,8 +211,6 @@ I enjoy building real-world full-stack web applications using Django.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata&v=2026" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata&v=1)](https://git.io/streak-stats)
-
 <p align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
@@ -223,3 +224,7 @@ I enjoy building real-world full-stack web applications using Django.
 </p>
 
 ---
+
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata&v=1)](https://git.io/streak-stats)
+</p>
