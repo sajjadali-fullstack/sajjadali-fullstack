@@ -203,7 +203,7 @@ I enjoy building real-world full-stack web applications using Django.
 ## 📈 My GitHub Stats
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight&v=2026" />
 </p>
 
 <!-- GitHub Streak Card -->
@@ -213,7 +213,7 @@ I enjoy building real-world full-stack web applications using Django.
 
 <p align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight&v=2026" />
 </p>
 
 
