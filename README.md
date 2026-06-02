@@ -96,6 +96,12 @@ Currently focused on **improving backend scalability** and **API development** u
 
 <p align="center">
   
+  <!-- Backend -->
+  <b>🧠 Backend:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,django,drf,flask,mysql" height="25"/>
+
+  <br>
+
   <!-- Languages -->
   <b>🔧 Languages:</b><br>
   
@@ -110,12 +116,7 @@ Currently focused on **improving backend scalability** and **API development** u
 
   <br>
   
-  <!-- Backend -->
-  <b>🧠 Backend:</b><br>
-  <img src="https://skillicons.dev/icons?i=django,flask" height="25"/>
-
-  <br>
-
+  
   <!-- Database -->
   <b> Database: </b><br>
   <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
