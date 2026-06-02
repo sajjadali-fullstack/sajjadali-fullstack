@@ -98,41 +98,22 @@ Currently focused on **improving backend scalability** and **API development** u
   
   <!-- Backend -->
   <b>🧠 Backend:</b><br>
+  
   <img src="https://skillicons.dev/icons?i=python,django" height="25"/>
-  <img src="https://img.shields.io/badge/DRF-FlameRed?style=for-the-badge&logo=django&logoColor=white" height="35" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/DRF-FlameRed?style=for-the-badge&logo=django&logoColor=white" width="25" style="vertical-align: middle;" />
   <img src="https://skillicons.dev/icons?i=flask,mysql" height="25"/>
   <br>
-
-  <!-- Languages -->
-  <b>🔧 Languages:</b><br>
   
-  <img src="https://skillicons.dev/icons?i=python,javascript" height="25"/>
-
-<br>
-
   <!-- Frontend -->
   <b>🎨 Frontend:</b><br>
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="25"/>
-
-  <br>
-  
-  
-  <!-- Database -->
-  <b> Database: </b><br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
-
-  <br>
-  
-  <!-- API's --> 
-  <b>REST API:</b><br>
-  <img src="https://skillicons.dev/icons?i=postman" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="25"/>
 
   <br>
   
   <!-- Tools --> 
   <b>🔨 Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman" height="30"/>
 </p>
 
 
