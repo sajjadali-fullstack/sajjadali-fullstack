@@ -97,25 +97,19 @@ Currently focused on **improving backend scalability** and **API development** u
 <p align="center">
   
   <!-- Backend -->
-  <b>🧠 Backend:</b><br>
-  
-  <img src="https://skillicons.dev/icons?i=python,django" height="25"/>
-  <img src="https://img.shields.io/badge/DRF-FlameRed?style=for-the-badge&logo=django&logoColor=white" width="45" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=flask,mysql" height="25"/>
-  
+  <b>🧠 Backend:</b>
   <br>
-
   <p>
-  <b>🧠 Backend:</b><br>
   <img src="https://skillicons.dev/icons?i=python,django" height="25" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" height="25" style="vertical-align: middle; margin: 0 3px;" />
   <img src="https://skillicons.dev/icons?i=flask,mysql" height="25" style="vertical-align: middle;" />
-</p>
+  </p>
   
   <br>
   
   <!-- Frontend -->
-  <b>🎨 Frontend:</b><br>
+  <b>🎨 Frontend:</b>
+  <br>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="25"/>
 
