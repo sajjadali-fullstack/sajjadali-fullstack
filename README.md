@@ -151,6 +151,10 @@ Currently focused on **improving backend scalability** and **API development** u
 - Django REST Framework
 - API Development
 
+## ⚡ Fun Fact
+I enjoy building real-world full-stack web applications using Django.
+
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 * **LinkedIn:**
@@ -179,9 +183,6 @@ Currently focused on **improving backend scalability** and **API development** u
 </p>
 
 
-## ⚡ Fun Fact
-I enjoy building real-world full-stack web applications using Django.
-
 ---
 
 ## 📊 This Week I Spent My Time On
@@ -208,14 +209,6 @@ I enjoy building real-world full-stack web applications using Django.
 </p>
 
 
-
-
 <p align="center">
   ⭐ <b>If you like my work, don’t forget to follow & star repositories!</b>
-</p>
-
----
-
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjadali-fullstack&theme=tokyonight&zone=Asia/Kolkata&v=1)](https://git.io/streak-stats)
 </p>
