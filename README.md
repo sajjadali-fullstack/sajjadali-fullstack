@@ -117,10 +117,11 @@ Currently focused on **improving backend scalability** and **API development** u
   
   <!-- Tools --> 
   <b>🔨 Tools:</b>
-  <br>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,github,postman" height="30"/>
 </p>
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" width="400"/>
@@ -152,16 +153,18 @@ Currently focused on **improving backend scalability** and **API development** u
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-* **LinkedIn:**  
+* **LinkedIn:**
+  <br>
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   
   &nbsp;
 
-* **Gmail:**  
+* **Gmail:**
+  <br> 
   <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="50" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" alt="Gmail"/>
   </a>
   
   &nbsp;
