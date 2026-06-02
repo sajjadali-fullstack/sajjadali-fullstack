@@ -100,9 +100,9 @@ Currently focused on **improving backend scalability** and **API development** u
   <b>🧠 Backend:</b>
   <br>
   <p>
-  <img src="https://skillicons.dev/icons?i=python,django" height="25" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" height="25" style="vertical-align: middle; margin: 0 3px;" />
-  <img src="https://skillicons.dev/icons?i=flask,mysql" height="25" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=python,django" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" height="30" style="vertical-align: middle; margin: 0 3px;" />
+  <img src="https://skillicons.dev/icons?i=flask,mysql" height="30" style="vertical-align: middle;" />
   </p>
   
   <br>
@@ -111,12 +111,13 @@ Currently focused on **improving backend scalability** and **API development** u
   <b>🎨 Frontend:</b>
   <br>
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="25"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="30"/>
 
   <br>
   
   <!-- Tools --> 
-  <b>🔨 Tools:</b><br>
+  <b>🔨 Tools:</b>
+  <br>
   <img src="https://skillicons.dev/icons?i=vscode,github,postman" height="30"/>
 </p>
 
