@@ -193,10 +193,6 @@ I enjoy building real-world full-stack web applications using Django.
 ---
 
 ## 📈 My GitHub Stats
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight&v=2026" />
-</p>
 
 <!-- GitHub Streak Card -->
 <p align="center">
