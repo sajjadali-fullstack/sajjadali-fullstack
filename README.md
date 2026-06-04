@@ -173,7 +173,7 @@ I enjoy building real-world full-stack web applications using Django.
   
   &nbsp;
   
- <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
+ <a href="https://sajjadali-fullstack-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 </p>
