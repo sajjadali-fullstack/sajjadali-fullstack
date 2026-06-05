@@ -187,7 +187,7 @@ I enjoy building real-world full-stack web applications using Django.
 
 ## 📊 This Week I Spent My Time On
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadali-full-stack&theme=react-dark&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
+  <img src="https://github-readme-activity-graph-three.vercel.app/graph?username=sajjadali-fullstack&theme=react-dark&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
 </p>
 ---
 
