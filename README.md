@@ -192,7 +192,7 @@ I enjoy building real-world full-stack web applications using Django.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="vertical-align: middle; margin-right: 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="vertical-align: middle; margin-right: 25px;"/>
   </a>
   <a href="mailto:sajjadali.dev01@gmail.com">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" alt="Gmail" style="vertical-align: middle; margin-right: 15px;"/>
