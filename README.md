@@ -154,40 +154,12 @@ Currently focused on **improving backend scalability** and **API development** u
 ## ⚡ Fun Fact
 I enjoy building real-world full-stack web applications using Django.
 
+---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-* **LinkedIn:**
-  <br>
-  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
-  
-  &nbsp;
-
-* **Gmail:**
-  <br> 
-  <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" alt="Gmail"/>
-  </a>
-  
-  &nbsp;
-  
- <a href="https://sajjadali-fullstack-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-</p>
-
 <p align="center">
-  <i>Feel free to reach out for collaborations or just a friendly hello!</i>
-</p>
-
----
-
-<h2 align="center">💬 Let's Connect</h2>
-
-<p align="center">
-  I'm actively building and learning — always open to collabs, referrals, or just a good tech chat!
+ <i>Feel free to reach out for collaborations or just a friendly hello!</i>
 </p>
 
 <p align="center">
