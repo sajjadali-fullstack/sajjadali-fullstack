@@ -183,30 +183,22 @@ I enjoy building real-world full-stack web applications using Django.
 </p>
 
 ---
+
 <h2 align="center">💬 Let's Connect</h2>
 
 <p align="center">
-  <i>I'm actively building and learning — always open to collabs, referrals, or just a good tech chat!</i>
+  I'm actively building and learning — always open to collabs, referrals, or just a good tech chat!
 </p>
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn" style="vertical-align: middle; margin: 0 12px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="vertical-align: middle; margin-right: 15px;"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Gmail -->
   <a href="mailto:sajjadali.dev01@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="42" alt="Gmail" style="vertical-align: middle; margin: 0 12px;"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" alt="Gmail" style="vertical-align: middle; margin-right: 15px;"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Portfolio -->
   <a href="https://sajjadali-fullstack-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="vertical-align: middle; margin: 0 12px;" />
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="vertical-align: middle;"/>
   </a>
 </p>
 
