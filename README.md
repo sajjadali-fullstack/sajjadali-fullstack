@@ -182,6 +182,33 @@ I enjoy building real-world full-stack web applications using Django.
   <i>Feel free to reach out for collaborations or just a friendly hello!</i>
 </p>
 
+---
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="vertical-align: middle; margin: 0 10px;"/>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:sajjadali.dev01@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" alt="Gmail" style="vertical-align: middle; margin: 0 10px;"/>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://sajjadali-fullstack-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="vertical-align: middle; margin: 0 10px;" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Feel free to reach out for collaborations or just a friendly hello!</i>
+</p>
 
 ![Footer Banner](https://camo.githubusercontent.com/b15944aa69b88ff4aaed0e228c696d67e2a33a7600d53440f83be33c2740b46a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3263353336342c35303a3230336134332c3130303a306632303237266865696768743d3130302673656374696f6e3d666f6f746572)
 
