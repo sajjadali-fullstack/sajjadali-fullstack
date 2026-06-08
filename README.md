@@ -138,8 +138,8 @@ Currently focused on **improving backend scalability** and **API development** u
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
 | [🛒 GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built with Django. The project focuses on clean architecture, template inheritance, authentication, and professional backend logic following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
-| [Smart Exam Portal](#) |... | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
-| [Task Manager](#) | ... | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
+| [Smart Exam Portal](#) | Work In Progress... | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
+| [Task Manager](#) | Work In Progress... | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 
 
 <br>
