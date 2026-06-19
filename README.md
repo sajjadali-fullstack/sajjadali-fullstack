@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-💎<b> Seeking Full-Time Opportunitie </b>💎
+💎<b> Open to collaborations and new opportunities" </b>💎
 </div>
 
 ---
