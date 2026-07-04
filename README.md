@@ -59,7 +59,7 @@
       <h4>🧠 Continuous Learning</h4>
       <ul>
         <li><strong>Exploring:</strong> RESTful API Design & Advanced Backend Architectures</li>
-        <li><strong>💬 Ask Me About:</strong> Python, Django,RESTful API's and DataBase</li>
+        <li><strong>💬 Ask Me About:</strong> Python, Django,RESTful API's and </li>
       </ul>
     </td>
   </tr>
