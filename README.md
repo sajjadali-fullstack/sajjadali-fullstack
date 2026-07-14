@@ -199,3 +199,35 @@ I enjoy building real-world full-stack web applications using Django.
 <p align="center">
   ⭐ <b>If you like my work, don’t forget to follow & star repositories!</b>
 </p>
+
+
+
+-----
+
+
+
+..       ..            .                        sajjadali@github
+  ..     ..            . ...                    -----------------
+  ..     ..                 .. .                OS: ................... Windows 11 / Django Dev
+  ..     ..                  ..                 Role: ................. Full-Stack Python Developer
+  ..     ...    .::---:..                       Location: ............. Mumbai, India
+....     ...   -+++++==--.        .             Status: ................ Open to Work / Immediate Joiner
+....    ...:. -+++++=----:                      
+....    ..:+*:::-++-.:::::-.                    Languages.Programming: . Python, JavaScript, HTML, CSS
+....    .::#@#-::==---::---.  .  .              Frameworks: ............ Django, DRF, Flask
+ .::.   ..:-=+===+==++++==-:.---..              Database: .............. MySQL, Oracle, SQLite
+ .::    .....-**+=--+**+=-:.:-=-....            Frontend: .............. Bootstrap, Tailwind CSS
+::::    ...  .++=---====--:::-:.  ..            
+::::.   ... . :=-----=-----:::                  Languages.Human: ....... English, Hindi, Marathi
+::::.......:: .-+====----:..::.                 Hobbies: ............... Bike Riding, Martial Arts
+:::-----:.:=-...----:::...:--::.:.              
+  .:-=-::..::......:...::-==-:-*#*.             GitHub Stats -----------
+  .:..::...:::.....:-:--==+==*%%%%+:            Repos: ................. 95+
+  ..    ............--==+=+*#%%%%###*=:.   ..   Main Project: .......... GenZKart (E-commerce)
+.:::.........:.....+*====+#%%%%%#######*=.      Logic Problems Solved: . 150+
+.:--=+*+-..:-::--=#%+==+*%%%%%###########*-     
+:--=*##*-.:===*%#%#+==*%%%%%#########%#####+:   Contact ----------------
+:--=***+-.-**==#%#==+#%%##%%%########%######*   Email: ................. sajjadali.dev01@gmail.com
+.:-+*+=-:.:+*==%%+=*###%%%%%%####%%%#########   LinkedIn: .............. sajjadali-fullstack
+.:-:::--:..::-*%#=###%%%%##%%###%%###########   Portfolio: ............. sajjadali-fullstack-portfolio.netlify.app
+ ::.   .:.. .=%%*#%%%%%%#######%%##########**
