@@ -119,10 +119,7 @@ Currently focused on **improving backend scalability** and **API development** u
   <b>🔨 Tools:</b>
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,github,postman" height="30"/>
-  
-<a href="https://www.pythonanywhere.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PythonAnywhere"/>
-</a>
+
 </p>
 
 ---
