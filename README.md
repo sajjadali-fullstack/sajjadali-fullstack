@@ -137,10 +137,10 @@ Currently focused on **improving backend scalability** and **API development** u
 
 | Project | Description | Tech Stack | Live |
 |----------|-------------|------------|------|
-| [🤖 Groq AI Chat Assistant](https://github.com/sajjadali-fullstack/groq-ai-chat-assistant-django) | AI-powered chatbot built with Django, Groq API, and LangChain. Features secure authentication, persistent chat history, and real-time LLM conversations. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> Groq API • LangChain | ✅ https://sajjadaliai.pythonanywhere.com/ |
+| [🤖 Groq AI Chat Assistant](https://github.com/sajjadali-fullstack/groq-ai-chat-assistant-django) | AI-powered chatbot built with Django, Groq API, and LangChain. Features secure authentication, persistent chat history, and real-time LLM conversations. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> Groq API • LangChain | [![Live Demo](https://img.shields.io/badge/🌐-Go%20to%20Website-0A66C2?style=for-the-badge)](https://sajjadaliai.pythonanywhere.com/) |
 | [🛒 GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | Feature-rich e-commerce platform with authentication, product management, and clean Django architecture following industry best practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> | 🚧 Coming Soon |
 | [🎓 Smart Exam Portal](#) | Online examination system with authentication, MCQs, scoring, and admin management. *(Work in Progress)* | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> | 🚧 Coming Soon |
-| [📋 Task Manager](https://github.com/sajjadali-fullstack/genz-taskflow) | A modern Django task management application with user authentication and full CRUD functionality for efficient task organization. | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> | ✅ https://genztaskflow.pythonanywhere.com/ |
+| [📋 Task Manager](https://github.com/sajjadali-fullstack/genz-taskflow) | A modern Django task management application with user authentication and full CRUD functionality for efficient task organization. | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> | [![Live Demo](https://img.shields.io/badge/🌐-Go%20to%20Website-0A66C2?style=for-the-badge)](https://genztaskflow.pythonanywhere.com/) |
 
 
 <br>
