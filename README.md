@@ -145,9 +145,11 @@ Currently focused on **improving backend scalability** and **API development** u
 
 <br>
 
-## 🌱 Currently Learning
-- Django REST Framework
-- API Development
+## 🌱 Currently Exploring
+- 🤖 Agentic AI
+- 🧠 Generative AI
+- 🔗 AI Agents & LLM Workflows
+- ⚡ Building AI-Powered Applications with Python & Django
 
 ## ⚡ Fun Fact
 I enjoy building real-world full-stack web applications using Django.
