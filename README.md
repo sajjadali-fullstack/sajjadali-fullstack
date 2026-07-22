@@ -135,11 +135,12 @@ Currently focused on **improving backend scalability** and **API development** u
 
 ## 📌 Top Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|-------------|
+| Project | LIVE |Desc | Tech Stack |
+|----------|-------------|-------------|-------------|
+| [🤖 Groq AI Chat Assistant](#) | An AI-powered chatbot built with Django and the Groq API. Features secure authentication, persistent chat history, and real-time conversational responses using Large Language Models (LLMs). | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
 | [🛒 GenZKart](https://github.com/sajjadali-fullstack/genz-kart) | A feature-rich E-commerce platform built with Django. The project focuses on clean architecture, template inheritance, authentication, and professional backend logic following industry-standard practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
-| [Smart Exam Portal](#) | Work In Progress... | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
-| [Task Manager](#) | Work In Progress... | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
+| [🎓 Smart Exam Portal](#) | Work In Progress... | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> |
+| [📋 Task Manager](#) | Work In Progress... | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 
 
 <br>
