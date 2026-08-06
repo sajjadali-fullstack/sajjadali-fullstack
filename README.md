@@ -19,12 +19,10 @@
 
 <div align="center">
   <!-- Water Flow Waving Banner with Full Bio -->
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sajjad%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%7C%20Building%20Smart%20Exam%20Portal&descAlignY=58&descColor=7ecfff&animation=fadeIn" alt="Sajjad Ali Header" width="100%" />
 </div>
 
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:1F2937,100:374151&text=Sajjad%20Ali&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Python%20Developer&descAlignY=60&descColor=d1d5db&animation=fadeIn" width="100%" />
-</p>
+
 
 <div align="center">
 💎<b> Open to collaborations and new opportunities" </b>💎
