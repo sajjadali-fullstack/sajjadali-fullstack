@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&weight=700&pause=1000&color=7ecfff&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Django+%7C+DRF+%7C+Flask;Building+Scalable+Web+Applications;From+Mumbai+India;Open+to+Work+in+Mumbai" alt="Typing Effect" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:1F2937,100:374151&text=Sajjad%20Ali&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Python%20Developer&descAlignY=60&descColor=d1d5db&animation=fadeIn" width="100%" />
 </p>
 
 <div align="center">
