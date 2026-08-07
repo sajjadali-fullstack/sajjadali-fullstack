@@ -22,6 +22,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sajjad%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%7C%20Building%20Smart%20Exam%20Portal&descAlignY=58&descColor=7ecfff&animation=fadeIn" alt="Sajjad Ali Header" width="100%" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sajjad%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Python%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20Exploring%20Generative%20%26%20Agentic%20AI&descAlignY=58&descColor=7ecfff&animation=fadeIn" alt="Sajjad Ali Header" width="100%" />
 
 <div align="center">
 💎<b> Open to collaborations and new opportunities" </b>💎
