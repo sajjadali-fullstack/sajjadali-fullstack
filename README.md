@@ -148,6 +148,19 @@ Currently focused on **improving backend scalability** and **API development** u
 
 <br>
 
+## 📌 Top Projects
+
+| Project | Description | Tech Stack | Live |
+|----------|-------------|------------|------|
+| 🌐 **Portfolio** | Personal Developer Portfolio showcasing my skills, projects, experience, and journey as a Full-Stack Python Developer. | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> | [![Netlify Status](https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sajjadali-fullstack-portfolio.netlify.app/) |
+| **🤖 Groq AI Chat Assistant** | AI-powered chatbot built with Django, Groq API, and LangChain. Features secure authentication, persistent chat history, and real-time LLM conversations. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> Groq API • LangChain | [![Live Demo](https://img.shields.io/badge/🌐-Go%20to%20Website-0A66C2?style=for-the-badge)](https://sajjadaliai.pythonanywhere.com/) |
+| **📋 Task Manager** | A modern Django task management application with user authentication and full CRUD functionality for efficient task organization. | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> | [![Live Demo](https://img.shields.io/badge/🌐-Go%20to%20Website-0A66C2?style=for-the-badge)](https://genztaskflow.pythonanywhere.com/) |
+| **🎓 Smart Exam Portal** | Online examination system with authentication, MCQs, scoring, and admin management. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> | [![Live Demo](https://img.shields.io/badge/🌐-Go%20to%20Website-0A66C2?style=for-the-badge)](https://smartexamportal.pythonanywhere.com/) |
+| **🛒 GenZKart** | Feature-rich e-commerce platform with authentication, product management, and clean Django architecture following industry best practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> | 🚧 Coming Soon |
+
+
+<br>
+
 ## 🌱 Currently Exploring
 - 🤖 Agentic AI
 - 🧠 Generative AI
