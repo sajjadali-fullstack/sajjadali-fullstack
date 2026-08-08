@@ -141,8 +141,42 @@ Currently focused on **improving backend scalability** and **API development** u
 | **🎓 Smart Exam Portal** | Online examination system with authentication, MCQs, scoring, and admin management. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> | [![Live Demo](https://img.shields.io/badge/🌐-Go%20to%20Website-0A66C2?style=for-the-badge)](https://smartexamportal.pythonanywhere.com/) |
 | **🛒 GenZKart** | Feature-rich e-commerce platform with authentication, product management, and clean Django architecture following industry best practices. | <img src="https://skillicons.dev/icons?i=python,django,mysql" height="20"/> | 🚧 Coming Soon |
 
-
 <br>
+
+### 🌐 Portfolio — Key Features
+- 🎨 Clean, responsive personal portfolio design
+- 🛠️ Showcases skills, projects & experience
+- ⚡ Built with pure HTML, CSS & JS
+- 📱 Mobile-friendly layout
+
+### 🤖 Groq AI Chat Assistant — Key Features
+- 🔐 Secure user authentication
+- 💬 Real-time AI chat powered by Groq LLM
+- 📜 Persistent chat history per user
+- ⚡ Fast, context-aware responses via LangChain
+- 🖥️ Built on Django backend
+
+### 📋 Task Manager — Key Features
+- ✅ Full CRUD functionality for tasks
+- 🔐 User authentication & personalized task lists
+- 🗂️ Organize tasks efficiently by status/priority
+- 💾 SQLite-backed data storage
+
+### 🎓 Smart Exam Portal — Key Features
+- 📝 MCQ-based online examination system
+- 🔐 Secure user login & authentication
+- 📊 Automatic scoring system
+- 🛠️ Admin panel for exam management
+- 🗄️ MySQL database integration
+
+### 🛒 GenZKart — Key Features
+- 🔐 User authentication & account management
+- 📦 Product listing & management system
+- 🏗️ Clean Django architecture following best practices
+- 🗄️ MySQL database integration
+- 🚧 Currently in development — launching soon
+
+---
 
 ## 🌱 Currently Exploring
 - 🤖 Agentic AI
