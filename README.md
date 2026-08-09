@@ -98,7 +98,7 @@ Currently focused on **improving backend scalability** and **API development** u
   <br>
   <p>
   <img src="https://skillicons.dev/icons?i=python,django" height="30" style="vertical-align: middle;" />
-  <<img src="https://img.shields.io/badge/DRF-Red?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-Red?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=flask,mysql" height="30" style="vertical-align: middle;" />
   </p>
   
